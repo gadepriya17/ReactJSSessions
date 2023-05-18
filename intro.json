@@ -1,0 +1,24 @@
+
+[
+    {
+    "name": "priya gade",
+    "profession": "software engineer",
+    "age" :30,
+    "address":{
+                "city": "Pune",
+                "State": "MH",
+                "Pin"  : 414401
+              },
+    "language":["Java","python","php",".net"],
+    "socail profile":[
+                      {
+                        "name":"facebook",
+                         "link":"www.facebook"
+                      },
+                      {
+                        "name":"instagram",
+                        "link":"www.insta"
+                      }
+                     ]
+  } 
+  ]
